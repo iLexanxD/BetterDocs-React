@@ -1,7 +1,7 @@
 ---
 title: Permission Viewer
 author: 21Joakim
-description: Allows you to view any users permissions (roles) through the context menu by right clicking their name.
+description: Es el peor plugin del mundo :O NO LO INSTALEN, A MI ME PASÓ Y NO ME FUNCIOONAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!!!!!!!!!!!
 download: https://github.com/21Joakim/pc-permissionViewer/tree/master/jockie-permissionViewer
 github_profile_url: https://github.com/21Joakim/
 github_source_url:
